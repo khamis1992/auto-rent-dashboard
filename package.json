@@ -1,0 +1,14 @@
+{
+  "name": "auto-rent-dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "build": "echo 'Building your project...'"
+}
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
